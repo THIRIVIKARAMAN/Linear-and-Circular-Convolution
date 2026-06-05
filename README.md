@@ -1,12 +1,11 @@
-## EXP 2 : LINEAR AND CIRCULAR CONVOLUTION FOR GIVEN TWO SEQUENCE
 
-### AIM  
+# PERFORM LINEAR AND CIRCULAR CONVOLUTION FOR GIVEN TWO SEQUENCE
+## AIM  
  To perform Linear and Circular Convolution for two given sequence using SCILAB. 
-
-### APPARATUS REQUIRED  
+## APPARATUS REQUIRED  
 PC installed with SCILAB.   
-
-### PROGRAM - LINEAR CONVOLUTION 
+## PROGRAM 
+### LINEAR CONVOLUTION 
 ```python
 clc;
 clear;
@@ -56,7 +55,7 @@ xlabel("n");ylabel("Amplitude");
 
 ```
 
-### PROGRAM - CIRCULAR CONVOLUTION 
+### CIRCULAR CONVOLUTION 
 ```python
 clc;
 clear;
@@ -108,15 +107,15 @@ title("Circular Convolution - Built-in FFT");
 xlabel("n");ylabel("Amplitude");
 
 ```
-
-### OUTPUT - LINEAR CONVOLUTION
+## OUTPUT
+### LINEAR CONVOLUTION
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0138e663-05df-4f65-aec6-0f5758643e56" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9adc8c69-7d29-4269-a970-fcef0f379b90" />
 
-### OUTPUT - CIRCULAR CONVOLUTION
+### CIRCULAR CONVOLUTION
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7d31c156-fe4c-4b4b-ba1e-5bab29715f1c" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3c22c204-1934-4a5b-87ff-cc5c8e22d05a" />
 
 
-### RESULT
+## RESULT
 Thus, the linear convolution and circular convolution of two given sequences were performed and those result were verified.
